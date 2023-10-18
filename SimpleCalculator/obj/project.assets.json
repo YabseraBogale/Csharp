@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/yabsera/UUI/C#/Csharp/SimpleCalculator/SimpleCalculator.csproj",
+      "projectUniqueName": "/media/yabsera/New Volume/Github/Csharp/SimpleCalculator/SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "/media/yabsera/UUI/C#/Csharp/SimpleCalculator/SimpleCalculator.csproj",
+      "projectPath": "/media/yabsera/New Volume/Github/Csharp/SimpleCalculator/SimpleCalculator.csproj",
       "packagesPath": "/home/yabsera/.nuget/packages/",
-      "outputPath": "/media/yabsera/UUI/C#/Csharp/SimpleCalculator/obj/",
+      "outputPath": "/media/yabsera/New Volume/Github/Csharp/SimpleCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yabsera/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }

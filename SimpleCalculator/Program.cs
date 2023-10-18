@@ -5,7 +5,6 @@ Console.WriteLine("Simple Calculator");
 Console.WriteLine("Enter Two Numbers");
 
 int[] numbers=new int[2];
-
 for(int i=0;i<2;i++){
     Console.Write("Enter Number: ");
     numbers[i]=Convert.ToInt32(Console.ReadLine());
