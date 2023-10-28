@@ -6,7 +6,7 @@ for(int i=0;i<a.Length;i++){
 	a[i]=int.Parse(Console.ReadLine());
 	}
 
-int size=0;
+int sum=0;
 
 foreach(int i in a){
 	for(int j=1;j<int.Parse(Math.Sqrt(i));j++){
@@ -20,6 +20,8 @@ foreach(int i in a){
 		}
 	}
 	if(isPrime==true){
-		size+=1;
+		sum+=1;
 	}
 	}
+
+Console.WriteLine(sum);
