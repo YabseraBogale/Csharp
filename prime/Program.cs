@@ -7,25 +7,24 @@ for(int i=0;i<a.Length;i++){
 	}
 
 int sum=0;
-
+int size=0;
 foreach(int i in a){
 	bool isPrime=true;
-	for(int j=1;j<(int)Math.Sqrt(i);j++){
-		if(i<=1){
+	for(int j=1;j<=(int)Math.Sqrt(i);j++){
+		if(i==2){
 			break;
 		}
-		else if(i==2){
-			sum+=1;
-			break;
-		}
-		else if(i%j==0){
+		else if(i==1){
 			isPrime=false;
-			break;
+		}
+		else if(i%j==0 && j!=1){
+			isPrime=false;
 		}
 	}
 	if(isPrime==true){
-		sum+=1;
+		sum+=i;
+		size+=1;
 	}
 	}
+Console.WriteLine($"The Number of Prime Numbers in the array is {size} and the Sum is {sum}");
 
-Console.WriteLine(sum);
