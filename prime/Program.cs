@@ -9,6 +9,7 @@ for(int i=0;i<a.Length;i++){
 int sum=0;
 
 foreach(int i in a){
+	bool isPrime=true;
 	for(int j=1;j<int.Parse(Math.Sqrt(i));j++){
 		bool isPrime=true;
 		if(i<=1){
