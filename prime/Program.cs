@@ -11,8 +11,15 @@ int size=0;
 foreach(int i in a){
 	for(int j=1;j<int.Parse(Math.Sqrt(i));j++){
 		bool isPrime=true;
-		if(){
-			
+		if(i<=1){
+			break;
 		}
+		else if(i%j==0){
+			isPrime=false;
+			break;
+		}
+	}
+	if(isPrime==true){
+		size+=1;
 	}
 	}
