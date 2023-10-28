@@ -14,6 +14,10 @@ foreach(int i in a){
 		if(i<=1){
 			break;
 		}
+		else if(i==2){
+			sum+=1;
+			break;
+		}
 		else if(i%j==0){
 			isPrime=false;
 			break;
