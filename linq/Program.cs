@@ -7,3 +7,6 @@ var subset=from i in number where i%2==0 select i;
 foreach(var i in subset){
 	Console.WriteLine($"subset: {i}");
 	}
+
+
+//c# is good for windows application gui development but i don't what to say about the rest
