@@ -1,8 +1,8 @@
-﻿int[] orArray=new int[8];
+﻿int[] orArray=new int[4];
 
 for(int i=0;i<orArray.Length;i++){
-	Console.Write("Enter NUmber");
-	orArray[i]=Conver.ToInt32(Console.ReadLine());
+	Console.Write("Enter Number: ");
+	orArray[i]=Convert.ToInt32(Console.ReadLine());
 }
 
 int primeCount=0;
@@ -28,3 +28,4 @@ static bool IsPrime(int number){
 	return true;
 }
 
+Console.WriteLine("prime number count: {0}",primeCount);

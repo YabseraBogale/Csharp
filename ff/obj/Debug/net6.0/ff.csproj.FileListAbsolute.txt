@@ -1,0 +1,15 @@
+/home/yabsera/Documents/Github/Csharp/ff/bin/Debug/net6.0/ff
+/home/yabsera/Documents/Github/Csharp/ff/bin/Debug/net6.0/ff.deps.json
+/home/yabsera/Documents/Github/Csharp/ff/bin/Debug/net6.0/ff.runtimeconfig.json
+/home/yabsera/Documents/Github/Csharp/ff/bin/Debug/net6.0/ff.dll
+/home/yabsera/Documents/Github/Csharp/ff/bin/Debug/net6.0/ref/ff.dll
+/home/yabsera/Documents/Github/Csharp/ff/bin/Debug/net6.0/ff.pdb
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.csproj.AssemblyReference.cache
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.GeneratedMSBuildEditorConfig.editorconfig
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.AssemblyInfoInputs.cache
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.AssemblyInfo.cs
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.csproj.CoreCompileInputs.cache
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.dll
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ref/ff.dll
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.pdb
+/home/yabsera/Documents/Github/Csharp/ff/obj/Debug/net6.0/ff.genruntimeconfig.cache
