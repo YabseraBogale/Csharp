@@ -1,0 +1,15 @@
+/home/yabsera/Documents/github/Csharp/tcplistner/bin/Debug/net7.0/tcplistner
+/home/yabsera/Documents/github/Csharp/tcplistner/bin/Debug/net7.0/tcplistner.deps.json
+/home/yabsera/Documents/github/Csharp/tcplistner/bin/Debug/net7.0/tcplistner.runtimeconfig.json
+/home/yabsera/Documents/github/Csharp/tcplistner/bin/Debug/net7.0/tcplistner.dll
+/home/yabsera/Documents/github/Csharp/tcplistner/bin/Debug/net7.0/tcplistner.pdb
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.csproj.AssemblyReference.cache
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.GeneratedMSBuildEditorConfig.editorconfig
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.AssemblyInfoInputs.cache
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.AssemblyInfo.cs
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.csproj.CoreCompileInputs.cache
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.dll
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/refint/tcplistner.dll
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.pdb
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/tcplistner.genruntimeconfig.cache
+/home/yabsera/Documents/github/Csharp/tcplistner/obj/Debug/net7.0/ref/tcplistner.dll
