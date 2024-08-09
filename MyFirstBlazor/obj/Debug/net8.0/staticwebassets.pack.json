@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/yabsera/Documents/github/Csharp/MyFirstBlazor/obj/Debug/net8.0/scopedcss/projectbundle/MyFirstBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets/MyFirstBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "/home/yabsera/Documents/github/Csharp/MyFirstBlazor/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/yabsera/Documents/github/Csharp/MyFirstBlazor/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/yabsera/Documents/github/Csharp/MyFirstBlazor/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/yabsera/Documents/github/Csharp/MyFirstBlazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyFirstBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyFirstBlazor.props",
+      "PackagePath": "build\\MyFirstBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyFirstBlazor.props",
+      "PackagePath": "buildMultiTargeting\\MyFirstBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyFirstBlazor.props",
+      "PackagePath": "buildTransitive\\MyFirstBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
