@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/yabsera/Documents/github/Csharp/MyFirstBlazor
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/yabsera/Documents/github/Csharp/MyFirstBlazor/Component/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50L1BhZ2VzL1RvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/yabsera/Documents/github/Csharp/MyFirstBlazor/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
