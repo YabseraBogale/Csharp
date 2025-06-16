@@ -3,7 +3,12 @@
 @rendermode InteractiveServer
 
 <PageTitle>Process</PageTitle>
-
+<ul>
+@foreach(var i in number){
+    <li>@i</li>
+}
+</ul>
 @code{
-    
+    private int[] number={1,3};
+
 }
